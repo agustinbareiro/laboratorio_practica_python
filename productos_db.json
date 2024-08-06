@@ -1,0 +1,162 @@
+{
+    "1": {
+        "id_producto": 1,
+        "nombre": "Smartphone Samsung Galaxy S21",
+        "descripcion": "Teléfono inteligente con pantalla AMOLED de 6.2 pulgadas, cámara triple de 64 MP y batería de larga duración.",
+        "precio": 799.99,
+        "stock": 50,
+        "garantia": 24
+    },
+    "2": {
+        "id_producto": 2,
+        "nombre": "Laptop Dell XPS 13",
+        "descripcion": "Laptop ultradelgada con pantalla de 13.4 pulgadas, procesador Intel Core i7, 16GB de RAM y 512GB SSD.",
+        "precio": 1299.99,
+        "stock": 30,
+        "garantia": 12
+    },
+    "3": {
+        "id_producto": 3,
+        "nombre": "Smart TV LG OLED55CXPUA",
+        "descripcion": "Televisor OLED de 55 pulgadas con resolución 4K y soporte HDR, ofreciendo colores vivos y negros profundos.",
+        "precio": 1499.99,
+        "stock": 20,
+        "garantia": 24
+    },
+    "4": {
+        "id_producto": 4,
+        "nombre": "Apple iPad Pro",
+        "descripcion": "Tablet de 12.9 pulgadas con pantalla Liquid Retina y procesador M1, compatible con Apple Pencil para creatividad.",
+        "precio": 999.99,
+        "stock": 25,
+        "garantia": 12
+    },
+    "5": {
+        "id_producto": 5,
+        "nombre": "Auriculares Sony WH-1000XM4",
+        "descripcion": "Auriculares inalámbricos con cancelación de ruido activa y batería de hasta 30 horas.",
+        "precio": 349.99,
+        "stock": 40,
+        "garantia": 12
+    },
+    "6": {
+        "id_producto": 6,
+        "nombre": "Cámara Canon EOS R5",
+        "descripcion": "Cámara sin espejo de 45 MP con grabación de video en 8K, ideal para fotógrafos profesionales.",
+        "precio": 3899.99,
+        "stock": 15,
+        "garantia": 24
+    },
+    "7": {
+        "id_producto": 7,
+        "nombre": "Reloj Inteligente Apple Watch Series 6",
+        "descripcion": "Smartwatch con monitoreo de oxígeno en sangre, ECG y aplicaciones de salud y fitness.",
+        "precio": 749.99,
+        "stock": 35,
+        "garantia": 12
+    },
+    "8": {
+        "id_producto": 8,
+        "nombre": "Consola de Videojuegos PlayStation 5",
+        "descripcion": "Consola de última generación con gráficos 4K y una amplia gama de juegos exclusivos.",
+        "precio": 499.99,
+        "stock": 25,
+        "garantia": 12
+    },
+    "9": {
+        "id_producto": 9,
+        "nombre": "Altavoz Inteligente Amazon Echo (4ª Generación)",
+        "descripcion": "Altavoz inteligente con Alexa integrada y sonido de alta calidad para el hogar.",
+        "precio": 99.99,
+        "stock": 60,
+        "garantia": 12
+    },
+    "10": {
+        "id_producto": 10,
+        "nombre": "Drone DJI Mavic Air 2",
+        "descripcion": "Drone con cámara 4K y tiempo de vuelo de hasta 34 minutos, ideal para fotografía aérea.",
+        "precio": 799.99,
+        "stock": 18,
+        "garantia": 12
+    },
+    "11": {
+        "id_producto": 11,
+        "nombre": "Manzana Roja",
+        "descripcion": "Manzanas frescas y jugosas, perfectas para comer solas o en ensaladas.",
+        "precio": 1.49,
+        "stock": 100,
+        "vencimiento": "2024-12-31"
+    },
+    "12": {
+        "id_producto": 12,
+        "nombre": "Pan Integral",
+        "descripcion": "Pan integral con alto contenido de fibra, ideal para un desayuno saludable.",
+        "precio": 2.99,
+        "stock": 50,
+        "vencimiento": "2024-08-20"
+    },
+    "13": {
+        "id_producto": 13,
+        "nombre": "Leche Entera",
+        "descripcion": "Leche entera fresca, rica en calcio y vitaminas.",
+        "precio": 1.79,
+        "stock": 80,
+        "vencimiento": "2024-09-15"
+    },
+    "14": {
+        "id_producto": 14,
+        "nombre": "Yogur Natural",
+        "descripcion": "Yogur natural sin azúcar, ideal para una merienda ligera o como ingrediente en recetas.",
+        "precio": 0.99,
+        "stock": 60,
+        "vencimiento": "2024-07-30"
+    },
+    "15": {
+        "id_producto": 15,
+        "nombre": "Pasta de Tomate",
+        "descripcion": "Pasta de tomate en frasco, ideal para preparar salsas y guisos.",
+        "precio": 3.49,
+        "stock": 40,
+        "vencimiento": "2025-03-01"
+    },
+    "16": {
+        "id_producto": 16,
+        "nombre": "Arroz Basmati",
+        "descripcion": "Arroz basmati de alta calidad, perfecto para acompañar tus platos favoritos.",
+        "precio": 4.99,
+        "stock": 30,
+        "vencimiento": "2025-01-10"
+    },
+    "17": {
+        "id_producto": 17,
+        "nombre": "Cereal de Desayuno",
+        "descripcion": "Cereal de desayuno con granos enteros y bajo en azúcar.",
+        "precio": 3.99,
+        "stock": 70,
+        "vencimiento": "2024-11-05"
+    },
+    "18": {
+        "id_producto": 18,
+        "nombre": "Mantequilla de Maní",
+        "descripcion": "Mantequilla de maní cremosa, rica en proteínas y grasas saludables.",
+        "precio": 5.49,
+        "stock": 45,
+        "vencimiento": "2025-02-20"
+    },
+    "19": {
+        "id_producto": 19,
+        "nombre": "Queso Cheddar",
+        "descripcion": "Queso cheddar curado, ideal para sandwiches y bocadillos.",
+        "precio": 6.99,
+        "stock": 35,
+        "vencimiento": "2024-08-25"
+    },
+    "20": {
+        "id_producto": 20,
+        "nombre": "Jugo de Naranja",
+        "descripcion": "Jugo de naranja natural, sin azúcares añadidos.",
+        "precio": 2.49,
+        "stock": 55,
+        "vencimiento": "2024-10-10"
+    }
+}
